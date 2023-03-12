@@ -1,4 +1,6 @@
 cat
 dog
 pig
+mysz
 bird
+szczur
